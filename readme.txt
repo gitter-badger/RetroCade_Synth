@@ -65,3 +65,4 @@ ChangeLog:
 		-Smallfs version of MOD and YM files are merged into this bit file.
 	-Papilio Loader
 	-SynthMaker Dashboard: The dashboard requires that Synthmaker be installed. MIDI selections are not moved to the main page yet.
+Join the chat at https://gitter.im/GadgetFactory/RetroCade_Synth
